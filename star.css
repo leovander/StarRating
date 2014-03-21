@@ -1,0 +1,19 @@
+.star-container {
+	width: 200px;
+	height: 45px;
+	float: left;
+}
+
+.star {
+ 	font-size: 40px;
+ 	line-height: 50px;
+ 	color: yellow;
+ 	cursor: pointer;
+ 	float: right;
+}
+
+.rating {
+  	font-size: 30px;
+  	padding-top: 15px;
+  	margin-right: 20px;
+}
