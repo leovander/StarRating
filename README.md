@@ -10,4 +10,4 @@ There is probably a better way to approach this, but I wanted to get something I
 Requirements
 -
 
-I just requires any version of Jquery. By default I am pointing to the CDN of it at the top of the page.- 
+It just requires any version of Jquery. By default I am pointing to the CDN of it at the top of the page.- 
